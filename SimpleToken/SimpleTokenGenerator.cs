@@ -9,7 +9,7 @@ public class SimpleTokenGenerator
 
     private readonly Random _rng; 
 
-    public SimpleTokenGenerator() : this(new Random())
+    public SimpleTokenGenerator() : this(new Random(Guid.NewGuid().GetHashCode()))
     {
     }
 
