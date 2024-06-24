@@ -4,6 +4,15 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <PackageId>SimpleToken</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>David Štorek</Authors>
+    <Company></Company>
+    <Description>A simple readable random token library</Description>
+    <PackageReadmeFile>../README.md</PackageReadmeFile>
+    <PackageTags>token;random;random token</PackageTags>
+    <RepositoryUrl>https://github.com/d3jv/simpletoken</RepositoryUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
 
 </Project>
