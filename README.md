@@ -6,3 +6,6 @@ The total number of different possibilities with length $n$ is $20^{\lceil\frac{
 
 It is advised that you check if a token has not been generated before.
 
+## Nuget
+
+Get it on [nuget](https://www.nuget.org/packages/SimpleToken/).
