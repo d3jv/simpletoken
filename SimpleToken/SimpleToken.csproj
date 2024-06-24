@@ -9,10 +9,14 @@
     <Authors>David Štorek</Authors>
     <Company></Company>
     <Description>A simple readable random token library</Description>
-    <PackageReadmeFile>../README.md</PackageReadmeFile>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageTags>token;random;random token</PackageTags>
     <RepositoryUrl>https://github.com/d3jv/simpletoken</RepositoryUrl>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="../README.md" Pack="true" PackagePath="/" />
+  </ItemGroup>
 
 </Project>
