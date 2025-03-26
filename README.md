@@ -8,4 +8,4 @@ It is advised that you check if a token has not been generated before.
 
 ## Nuget
 
-Get it on [nuget](https://www.nuget.org/packages/SimpleToken/).
+I did this mainly to try out nuget so [here's the package](https://www.nuget.org/packages/SimpleToken/).
